@@ -7,6 +7,7 @@
 using namespace std;
 
 int main(){
+     int c;
      x:for(i=1;i!=0;i++){
 
     system("color 90");
