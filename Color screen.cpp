@@ -7,9 +7,9 @@
 using namespace std;
 
 int main(){
-     int c;
-     x:for(i=1;i!=0;i++){
-
+     char c;
+    x:for(int i=1;i!=0;i++){
+cout<<"";
     system("color 90");
     system("color 10");
    // sleep(1.1);
